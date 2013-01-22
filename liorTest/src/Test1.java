@@ -1,6 +1,5 @@
 
 
-
 public class Test1 {
 
 	/**
@@ -10,7 +9,7 @@ public class Test1 {
 		
 		System.out.println("Welcome To Production Map1111");
 		System.out.println("OUR PRODUCTION MANAGEMENT IS 100% SAFE BECAUSE WE HAVE PM");
-		
+		String what="what";
 
 	}
 	
